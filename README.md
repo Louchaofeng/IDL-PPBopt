@@ -6,5 +6,5 @@ python 3.7
 pytorch 1.5.0
 rdkit
 scikit learn
-numpy
-pandas
+scipy 
+openbabel
