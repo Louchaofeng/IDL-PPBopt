@@ -1,4 +1,4 @@
-name: conda_cuda3
+name: IDL-PPBopt_cuda
 
 channels:
   - pytorch
