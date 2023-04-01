@@ -13,8 +13,11 @@ That version of the model uses cuda.
 
 ## Installation
 Using conda:
-clone that repo. 
-run the follwing command on the terminal inside the repo folder: `conda env create -f environment.yml` 
+
+1- Clone that repo. <br>
+2- Run the follwing command on the terminal inside the repo folder: `conda env create -f environment.yml`<br>
+
+To activate the conda environment run that command: `conda activate IDL_PPBopt_cuda`<br>
 
 ## Model
 The iPPB model was trained with AttentiveFP algorithm and saved in the "saved_models" file.
